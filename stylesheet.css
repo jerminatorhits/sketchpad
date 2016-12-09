@@ -1,0 +1,32 @@
+.square {
+  float: left;
+  border-color: black;
+  border-style: dotted;
+  border-width: 1px;
+  opacity: 1;
+}
+.green {
+  background-color: green;
+}
+.colorer {
+  background-color: blue;
+}
+.blue {
+  background-color: blue;
+}
+#container {
+  height: 962px;
+  width: 962px;
+  clear: both;
+  margin: 0 auto;
+  background-color: grey;
+}
+#top {
+  /*background-color: purple;*/
+  height: 30px;
+  text-align: center;
+}
+button {
+  margin: 0 auto;
+  background-color: orange;
+}
